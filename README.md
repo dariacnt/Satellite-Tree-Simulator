@@ -1,5 +1,4 @@
 /*CONSTANTINESCU Daria - 311CB*/
-#  TEMA 2 - SDA
 
 # TASK 1:
 
