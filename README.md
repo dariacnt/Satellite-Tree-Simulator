@@ -1,4 +1,4 @@
-/*CONSTANTINESCU Daria - 311CB*/
+/*CONSTANTINESCU Daria*/
 
 # TASK 1:
 
